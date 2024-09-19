@@ -1,7 +1,7 @@
 # Number Row Characters
 - ! 
 - @
-- #
+- \#
 - $ (dollar sign)
 - %
 - ^
