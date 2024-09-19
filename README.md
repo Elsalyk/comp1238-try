@@ -12,7 +12,6 @@
 
 
 # Link
-
 - [CBC News]https://www.cbc.ca/
 - [George Brown College website]https://www.georgebrown.ca/
 - [Amazon.ca]https://www.amazon.ca/ref=nav_logo
@@ -23,9 +22,11 @@
 - :wink:
 - :stuck_out_tongue:
 - :kissing_smiling_eyes:
-
-
-
+- :heart_eyes:
+- :ok_hand:
+- :muscle:
+- :point_up:
+- :clap:
 
 
 
