@@ -19,8 +19,14 @@
 - [Amazon.ca]https://www.amazon.ca/ref=nav_logo
 
 # Experiments
+- :grin:
+- :wink:
+- :stuck_out_tongue:
+- :kissing_smiling_eyes:
 
 
+
+\# Below is draft
 
 # comp1238 (try and error!)
 ## Hello World!
