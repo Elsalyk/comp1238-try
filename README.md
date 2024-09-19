@@ -1,8 +1,21 @@
-# Number row characters
+# Number Row Characters
+- !
+- @
+- #
+- $
+- %
+- ^
+- &
+- *
+- (
+- )
 qwertyuiop{}|asdfghjkl:"zxcvbnm<>?
 
 Shift-1  
 Shift-2 
+
+# Link
+
 
 
 
