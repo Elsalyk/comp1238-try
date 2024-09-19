@@ -2,13 +2,13 @@
 - ! (Exclamation mark)
 - @ (At sign)
 - \# (Number sign)
-- $ (dollar sign)
-- % (precentage sign)
+- $ (Dollar sign)
+- % (Percent sign)
 - ^ (Circumflex sign)
 - & (And sign)
 - \* (Asterisk sign)
-- ( 
-- )
+- ( (Bracket on left hand side)
+- ) (Bracket on right hand side)
 
 
 
