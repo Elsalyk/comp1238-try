@@ -1,3 +1,12 @@
+# Number row characters
+Shift-1  
+Shift-2 
+
+
+
+
+
+
 # comp1238 (try and error!)
 ## Hello World!
 ## Let's try something new.
