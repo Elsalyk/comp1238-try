@@ -1,24 +1,24 @@
 # Number Row Characters
-- !
+- ! 
 - @
 - #
-- $
+- $ (dollar sign)
 - %
 - ^
-- &
+- & (And sign)
 - *
 - (
 - )
-qwertyuiop{}|asdfghjkl:"zxcvbnm<>?
 
-Shift-1  
-Shift-2 
+
 
 # Link
 
+- [CBC News]https://www.cbc.ca/
+- [George Brown College website]https://www.georgebrown.ca/
+- [Amazon.ca]https://www.amazon.ca/ref=nav_logo
 
-
-
+# Experiments
 
 
 
