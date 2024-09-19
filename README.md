@@ -1,13 +1,13 @@
 # Number Row Characters
-- ! 
-- @
-- \#
+- ! (Exclamation mark)
+- @ (At sign)
+- \# (Number sign)
 - $ (dollar sign)
-- %
-- ^
+- % (precentage sign)
+- ^ (Circumflex sign)
 - & (And sign)
-- *
-- (
+- \* (Asterisk sign)
+- ( 
 - )
 
 
