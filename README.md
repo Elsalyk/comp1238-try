@@ -41,6 +41,8 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Ctrl-K (Inserts Markdown formatting for creating a link)
+- Ctrl-Shift-G (Find previous)
+- Alt-G (Jump to line)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 
 \# Below is draft
