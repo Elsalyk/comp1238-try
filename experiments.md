@@ -14,3 +14,9 @@ end-of-line
 outline
 linear
 ```
+
+\# line\d
+\# line\d+
+\# line\d*
+\# ^line
+\# line$
