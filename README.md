@@ -1,3 +1,7 @@
+\# Week6 Lab
+[CLI commands](docs/Cli.md)
+
+
 \# Week3 Lab
 # Number Row Characters
 - ! (Exclamation mark)
