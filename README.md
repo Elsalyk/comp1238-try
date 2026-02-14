@@ -50,7 +50,11 @@ Shortcuts I would like to start using:
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 
 
-
+| Feature | Description | Status |
+| :--- | :--- | :---: |
+| Tables | Easy to read | ✅ |
+| Bold | High impact | ✅ |
+| Lists | Organized | ✅ |
 
 
 \# Below is draft
